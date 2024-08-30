@@ -1,11 +1,16 @@
-<div class="container mt-5">
-  <div class="row">
-    <div class="col-lg-3 mt-3 mb-3" *ngFor="let result of TopheadingDisplay">
-      <div class="box">
-        <img src="{{ result.urlToImage }}" width="100%" />
-        <h4 class="mt-2 mb-2">{{ result.title }}</h4>
-        <a href="{{ result.url }}">Saiba Mais</a>
+<main>
+  <div class="container mt-5">
+    <h2 class="bg-dark text-light p-2" align="center">Principais Manchetes</h2>
+    <div class="row">
+      <div class="col-lg-3 mt-3 mb-3" *ngFor="let result of TopheadingDisplay">
+        <div class="box">
+          <img src="{{ result.urlToImage }}" width="100%" />
+          <h4 class="mt-2 mb-2">{{ result.title }}</h4>
+          <a href="{{ result.url }}" target="_blank" class="btn btn-dark btn-sm"
+            >Saiba Mais</a
+          >
+        </div>
       </div>
     </div>
   </div>
-</div>
+</main>
