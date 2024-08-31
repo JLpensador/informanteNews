@@ -1,4 +1,13 @@
 .box {
   padding: 10px 10px;
   background-color: #c9b7c7;
+  border-radius: 5%;
+  border: solid #000000;
+  margin-bottom: 20px;
+  white-space: break-spaces;
+}
+
+.box:hover {
+  transform: scaleX(1) translateY(-1px);
+  box-shadow: 0 20px 30px #4d3147;
 }
