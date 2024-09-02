@@ -11,6 +11,8 @@
 informanteNews é um projeto desenvolvido para fornecer uma interface moderna e intuitiva para acessar as últimas notícias de várias fontes. Utilizando a News API, o aplicativo permite a visualização de headlines e artigos de notícias de diversos jornais e mídias. O objetivo é oferecer uma plataforma onde os usuários podem se manter atualizados com as notícias mais recentes de maneira simples e eficiente.
 </h4>
 
+![informanteNews](https://github.com/user-attachments/assets/30b7e380-37e0-4f4d-9c9b-39fc9c31a040)
+
 ## Instalação
 - Clone o repositório:
 ```sh
