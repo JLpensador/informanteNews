@@ -13,9 +13,10 @@ import {
 } from '@angular/common/http';
 import { NewsapiservicesService } from './service/newsapiservices.service';
 import { TopheadingComponent } from './shared/topheading/topheading.component';
+import { LinksComponent } from './shared/links/links.component';
 
 @NgModule({
-  declarations: [AppComponent, HeaderComponent, TopheadingComponent],
+  declarations: [AppComponent, HeaderComponent, TopheadingComponent, LinksComponent],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule],
   providers: [
     provideClientHydration(),
