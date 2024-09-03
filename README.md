@@ -6,6 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <h4>
 informanteNews é um projeto desenvolvido para fornecer uma interface moderna e intuitiva para acessar as últimas notícias de várias fontes. Utilizando a News API, o aplicativo permite a visualização de headlines e artigos de notícias de diversos jornais e mídias. O objetivo é oferecer uma plataforma onde os usuários podem se manter atualizados com as notícias mais recentes de maneira simples e eficiente.
